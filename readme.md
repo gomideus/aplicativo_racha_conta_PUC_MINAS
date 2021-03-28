@@ -1,0 +1,3 @@
+- Professora, o git não permite que eu faça upload do arquivo de outra forma.
+- ERRO: "Yowza, that’s a lot of files. Try again with fewer than 100 files."
+- Meu app ficou com muitos arquivos.
